@@ -18,6 +18,7 @@
 • <a href="https://github.com/Jack-LP/Stats-preview-card"<h4 align="left">Stats preview card<h4></a>
 • <a href="https://github.com/Jack-LP/Price-grid"<h4 align="left">Price grid<h4></a>
 • <a href="https://github.com/Jack-LP/Simple-profile-card"<h4 align="left">Simple profile card<h4></a>
+• <a href="https://github.com/Jack-LP/Base-Apparel"<h4 align="left">Base Apparel<h4></a>
 
 
 ---
