@@ -1,5 +1,5 @@
 <h1 align="center">🏔️ Hi, I'm Jack 🌃</h1>
-<h3 align="center">A passionate frontend developer from London</h3>
+<h3 align="center">A passionate front-end developer from London</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jack-lp&label=Profile%20views&color=blueviolet&style=flat" alt="jack-lp" /> </p>
 
