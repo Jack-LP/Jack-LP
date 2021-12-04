@@ -9,9 +9,14 @@
 <h3 align="left">Currently Learning:</h3>
 <p align="left"><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<h3 align="left">My Recent Project:</h3>
-<a href="https://github.com/Jack-LP/Explore"<h4 align="left">Explore - startpage<h4></a>
-<img src="https://i.imgur.com/6J2iVjP.jpg" width="400" height="225" />
+<h3 align="left">Startpages:</h3>
+• <a href="https://github.com/Jack-LP/Explore"<h4 align="left">❄️Explore<h4></a>
+• <a href="https://github.com/Jack-LP/Koselig"<h4 align="left">🍂Koselig<h4></a>
+
+<h3 align="left">Frontend Mentor:</h3>
+• <a href="https://github.com/Jack-LP/Explore"<h4 align="left">Sunnyside Agency<h4></a>
+• <a href="https://github.com/Jack-LP/Stats-preview-card"<h4 align="left">Stats preview card<h4></a>
+
 
 ---
 
