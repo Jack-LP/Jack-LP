@@ -14,7 +14,7 @@
 • <a href="https://github.com/Jack-LP/Koselig"<h4 align="left">🍂Koselig<h4></a>
 
 <h3 align="left">Frontend Mentor:</h3>
-• <a href="https://github.com/Jack-LP/Sunnyside-Agencye"<h4 align="left">Sunnyside Agency<h4></a>
+• <a href="https://github.com/Jack-LP/Sunnyside-Agency"<h4 align="left">Sunnyside Agency<h4></a>
 • <a href="https://github.com/Jack-LP/Stats-preview-card"<h4 align="left">Stats preview card<h4></a>
 
 
