@@ -16,7 +16,7 @@
 
 <p align="center"><a href="https://github.com/Jack-LP/Dunes" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/odatk8E.gif" alt="Dunes" width="320" height="180"/> </a> <a href="https://github.com/Jack-LP/E-Commerce-Page" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/FP4t0LQ.png" alt="Sneakers" width="320" height="180"/> <a href="https://github.com/Jack-LP/Base-Apparel" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/IUcHzKi.png" alt="Base Apparel" width="320" height="180"/> </a> </a> <a href="https://github.com/Jack-LP/The-Oak-Tree" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/qx9aKaK.gif" alt="The Oak Tree" width="320" height="180"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-lp&layout=compact&bg_color=3a657d&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-lp&layout=compact&bg_color=3a657d&text_color=ffffff&title_color=ffffff&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jack-lp&label=Profile%20views&color=blue&style=flat" alt="jack-lp" /> </p>
 
