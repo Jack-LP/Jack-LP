@@ -1,7 +1,7 @@
 <h1 align="center">🌆 Hi, I'm Jack 🌃</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/KIFwspI.gif">
+  <img src="https://i.imgur.com/DmuIKSj.png">
 </p>
 
 ---
@@ -18,9 +18,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-lp&layout=compact&bg_color=3a657d&text_color=ffffff&title_color=ffffff&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jack-lp&label=Profile%20views&color=blue&style=flat" alt="jack-lp" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=jack-lp&label=Profile%20views&color=blue&style=flat" alt="jack-lp" /> </p> -->
 
 ---
+
+<p align="center">
+  <img src="https://i.imgur.com/fzvOW9U.png">
+</p>
 
 <!-- 
 
