@@ -1,4 +1,4 @@
-<h1 align="center">🌆 Hi, I'm Jack 🌃</h1>
+<h1 align="center">:electron: Hi, I'm Jack :electron:</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/DmuIKSj.png">
