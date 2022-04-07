@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/x7qTWi9.png">
+  <img src="https://i.imgur.com/1cgvTDz.png">
 </p>
 
 ---
@@ -19,5 +19,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/ZA9nv7g.png">
+  <img src="https://i.imgur.com/plyUGCI.png">
 </p>
