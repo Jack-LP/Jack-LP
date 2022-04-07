@@ -1,7 +1,5 @@
-<h1 align="center">:electron: Hi, I'm Jack :electron:</h1>
-
 <p align="center">
-  <img src="https://i.imgur.com/DmuIKSj.png">
+  <img src="https://i.imgur.com/x7qTWi9.png">
 </p>
 
 ---
@@ -12,41 +10,14 @@
 <h3 align="left">Currently Learning:</h3>
 <p align="left"><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a><a href="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/jaNMO36.png?auto=format" alt="harvard cs50" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://spline.design/" target="_blank" rel="noreferrer"> <img src="https://ph-files.imgix.net/25b07021-eab0-4596-b444-0fcc41031595.png?auto=format" alt="spline" width="40" height="40"/> </a><a href="https://www.theodinproject.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/bGPuzo3.png?auto=format" alt="odin project" width="40" height="40"/> </a> </p>
 
-<!-- <h1 align="center">Some of my work</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-lp&layout=compact&theme=gruvbox)](https://github.com/Jack-LP?tab=repositories)
 
-<p align="center"><a href="https://github.com/Jack-LP/Dunes" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/odatk8E.gif" alt="Dunes" width="320" height="180"/> </a> <a href="https://github.com/Jack-LP/E-Commerce-Page" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/FP4t0LQ.png" alt="Sneakers" width="320" height="180"/> <a href="https://github.com/Jack-LP/Base-Apparel" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/IUcHzKi.png" alt="Base Apparel" width="320" height="180"/> </a> </a> <a href="https://github.com/Jack-LP/The-Oak-Tree" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/qx9aKaK.gif" alt="The Oak Tree" width="320" height="180"/> </a></p> -->
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-lp&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-lp&layout=compact&bg_color=3a657d&text_color=ffffff&title_color=ffffff&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=jack-lp&label=Profile%20views&color=blue&style=flat" alt="jack-lp" /></p> -->
 
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/fzvOW9U.png">
+  <img src="https://i.imgur.com/ZA9nv7g.png">
 </p>
-
-<!-- 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jack-lp&" alt="jack-lp" />
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://i.imgur.com/c517116.gif">
-</p>
-
-<h3 align="left">Startpages:</h3>
-• <a href="https://github.com/Jack-LP/Explore"<h4 align="left">❄️Explore<h4></a>
-• <a href="https://github.com/Jack-LP/Koselig"<h4 align="left">🍂Koselig<h4></a>
-• <a href="https://github.com/Jack-LP/Dunes"<h4 align="left">🏜️Dunes<h4></a>
-
-<h3 align="left">Frontend Mentor:</h3>
-• <a href="https://github.com/Jack-LP/Sunnyside-Agency"<h4 align="left">Sunnyside Agency<h4></a>
-• <a href="https://github.com/Jack-LP/Stats-preview-card"<h4 align="left">Stats preview card<h4></a>
-• <a href="https://github.com/Jack-LP/Price-grid"<h4 align="left">Price grid<h4></a>
-• <a href="https://github.com/Jack-LP/Simple-profile-card"<h4 align="left">Simple profile card<h4></a>
-• <a href="https://github.com/Jack-LP/Base-Apparel"<h4 align="left">Base Apparel<h4></a> -->
