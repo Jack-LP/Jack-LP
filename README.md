@@ -21,6 +21,8 @@
 
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-lp&show_icons=true&theme=gruvbox)](https://github.com/Jack-LP?tab=repositories)
 
+<a href="mailto:jackpaget1@gmail.com">Send me and Email</a>  
+
 </div>
   
 <p align="center">
