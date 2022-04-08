@@ -15,7 +15,7 @@
 ```
 <p float="left">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-lp&repo=Github-user-search&theme=gruvbox)](https://github.com/Jack-LP/Github-user-search)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-lp&repo=Devfinder&theme=gruvbox)](https://github.com/Jack-LP/Devfinder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-lp&repo=Portfolio&theme=gruvbox)](https://github.com/Jack-LP/Portfolio)
 
 <p>
