@@ -1,6 +1,6 @@
 ---
 <p align="center">
-  <img src="https://i.imgur.com/1cgvTDz.png">
+  <img src="https://i.imgur.com/VlIkAke.png">
 </p>
 
 <div align="center">
@@ -31,7 +31,7 @@
 </div>
   
 <p align="center">
-  <img src="https://i.imgur.com/plyUGCI.png">
+  <img src="https://i.imgur.com/T9d2ioV.png">
 </p>
 
 ---
