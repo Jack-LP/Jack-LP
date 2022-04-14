@@ -20,7 +20,7 @@
 
 <p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=76jkx4ow9797vmz32ir2yuq8i&cover_image=true&theme=novatorem&bar_color=fabd2f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31iuattw3heoyzr6tjtezp64lfty&cover_image=true&theme=novatorem&bar_color=fabd2f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-lp&layout=compact&theme=gruvbox&hide=html)](https://github.com/Jack-LP?tab=repositories)
 
