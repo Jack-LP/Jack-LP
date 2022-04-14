@@ -32,6 +32,7 @@
   
 <p align="center">
   <img src="https://i.imgur.com/T9d2ioV.png">
+  <img src="https://komarev.com/ghpvc/?username=jack-lp&color=yellow">
 </p>
 
 ---
