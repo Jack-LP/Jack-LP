@@ -15,8 +15,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-lp&repo=Portfolio&theme=gruvbox)](https://github.com/Jack-LP/Portfolio)
 
 <p>
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31iuattw3heoyzr6tjtezp64lfty&cover_image=true&theme=novatorem&bar_color=fabd2f&bar_color_cover=true)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-lp&layout=compact&theme=gruvbox&hide=html)](https://github.com/Jack-LP?tab=repositories)
 
