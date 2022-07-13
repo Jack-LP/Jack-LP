@@ -12,13 +12,13 @@
 <p float="left">
   
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-lp&repo=Timearc&theme=gruvbox)](https://github.com/Jack-LP/Devfinder) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-lp&repo=Portfolio&theme=gruvbox)](https://github.com/Jack-LP/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-lp&repo=Portfolio&theme=nord)](https://github.com/Jack-LP/Portfolio)
 
 <p>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-lp&layout=compact&theme=gruvbox&hide=html)](https://github.com/Jack-LP?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-lp&layout=compact&theme=nord&hide=html)](https://github.com/Jack-LP?tab=repositories)
 
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-lp&show_icons=true&theme=gruvbox)](https://github.com/Jack-LP?tab=repositories)
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-lp&show_icons=true&theme=nord)](https://github.com/Jack-LP?tab=repositories)
 
 <a href="mailto:jackpaget1@gmail.com">Send me an Email</a>  
 
