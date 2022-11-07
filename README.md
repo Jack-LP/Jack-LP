@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://jackpaget.vercel.app" target="blank"><img align="center" src="https://svgshare.com/i/nuC.svg" alt="My portfolio" height="30" width="30" /></a>
 <a href="#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Jack Paget - Linkedin" height="30" width="30" /></a>
-<a href="https://www,github.com/Jack-LP" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-github-4555889_121361.png" alt="Jack Paget - Github" height="30" width="30" /></a>
+<a href="https://www.github.com/Jack-LP" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-github-4555889_121361.png" alt="Jack Paget - Github" height="30" width="30" /></a>
 </p>
 <h1 align="center">Jack Paget</h1>
 <h3 align="center">I'm a frontend web developer working primarliy with ReactJS.</h3>
